@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1255
     wikipedia: http://en.wikipedia.org/wiki/Frank_Harris
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23011#Eatin-Crow--and-The-Best-Man-In-Garotte
 gutenberg_issued: '2007-10-12'
 gutenberg_type: Text
 identifiers:
